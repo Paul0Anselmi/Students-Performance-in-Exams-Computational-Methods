@@ -1,0 +1,1 @@
+"""Camada estatística: recebe arrays numpy e não sabe de onde os dados vieram."""
